@@ -17,7 +17,7 @@ cd loaner
 npm install
 # Install IOS packages, this will enable you to run the app on  IOS
 cd IOS && pod install
-## to run the android version of the app
+## to run the Android version of the app
 ```
 
 ### Step 2: Start your Application
@@ -27,7 +27,7 @@ Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _roo
 ### Endpoint Update
 
 ```
-Go to the utils folder and file called constants.ts and add the neccerry backend url so that you can be able to connect to your repective backend
+Go to the utils folder and file called constants.ts and add the necessary backend url so that you can be able to connect to your respective backend
 
 ```
 
@@ -54,5 +54,5 @@ yarn ios
 ### Improvement to the Project given more time
 
 -   Add navigation to the project so the users can easily access screens
--   Add additional screen for viewing loan applications made by users
+-   Add an additional screen for viewing loan applications made by users
 -   configure and setup test so that devs can easily add unit and integration test
